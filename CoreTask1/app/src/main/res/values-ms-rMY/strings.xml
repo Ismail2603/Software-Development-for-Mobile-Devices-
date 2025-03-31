@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roll_button_label">Guling</string>
+    <string name="add_button_label">Tambah</string>
+    <string name="subtract_button_label">Kurangkan</string>
+    <string name="reset_button_label">Tetap semula</string>
+    <string name="dice_value_prefix">Nilai Dadu: </string>
+    <string name="score_prefix">Markah: </string>
+</resources>

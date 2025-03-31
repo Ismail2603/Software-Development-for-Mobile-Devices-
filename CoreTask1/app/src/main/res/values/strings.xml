@@ -1,0 +1,9 @@
+<resources>
+    <string name="roll_button_label">Roll</string>
+    <string name="add_button_label">Add</string>
+    <string name="subtract_button_label">Subtract</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="dice_value_prefix">Dice Value: </string>
+    <string name="score_prefix">Score: </string>
+    <string name="app_name" translatable="false">CoreTask1_IsmailMamedov</string>
+</resources>
